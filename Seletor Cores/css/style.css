@@ -1,0 +1,52 @@
+body {
+    padding: 40px;
+    background-color: darkgrey;
+  }
+  
+  h1 {
+    font-family: monospace;
+    margin-left: 560px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px;
+  }
+  
+  #border {
+    border-style: dashed;
+    width: 60%;
+    position: fixed;
+    margin-left: 200px;
+  }
+  #range-cor {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: 30px;
+  }
+  
+  #range-cor + #range-cor {
+    margin-top: 30px;
+  }
+  
+  #range-cor label {
+    width: 120px;
+  }
+  #range-cor input[type='range'] {
+    width: 190vh;
+  }
+  
+  #range-cor input[type='text'] {
+    width: 100px;
+    margin-left: 20px;
+  }
+  
+  #result {
+    width: 200px;
+    height: 200px;
+    border: solid 1px #000;
+    margin: auto auto 20px auto;
+  }
