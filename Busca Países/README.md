@@ -1,6 +1,6 @@
 ## Países Favoritos
 
-![]()
+![](https://github.com/gabipires/Bootcamp_Fullstack_IGTI/blob/master/Busca%20Pa%C3%ADses/20200716_215102.gif)
 
 -  **Criar uma aplicação que lista todos os países e permita que o usuário selecione seus favoritos para outra lista.**
 ------------
