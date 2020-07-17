@@ -27,4 +27,4 @@ Bootcamp Desenvolvedor Full Stack - IGTI
 
 - [Pesquisa de usuários]( "Pesquisa de usuários")
 
-- [Países Favoritos]("Países Favoritos")
+- [Países Favoritos](https://github.com/gabipires/Bootcamp_Fullstack_IGTI/tree/master/Busca%20Pa%C3%ADses - "Países Favoritos")
