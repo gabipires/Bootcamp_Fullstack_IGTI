@@ -23,8 +23,8 @@ Bootcamp Desenvolvedor Full Stack - IGTI
 
 #### Projetos Desenvolvidos
 
-- [Collor Sellector]( "Seletor de cores")
+- [Collor Sellector](https://github.com/gabipires/Bootcamp_Fullstack_IGTI/tree/master/Seletor%20Cores "Seletor de cores")
 
-- [Pesquisa de usuários]( "Pesquisa de usuários")
+- [Pesquisa de usuários](https://github.com/gabipires/Bootcamp_Fullstack_IGTI/tree/master/Pesquisa%20Usu%C3%A1rios "Pesquisa de usuários")
 
 - [Países Favoritos](https://github.com/gabipires/Bootcamp_Fullstack_IGTI/tree/master/Busca%20Pa%C3%ADses "Países Favoritos")
